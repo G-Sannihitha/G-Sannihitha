@@ -25,7 +25,6 @@ Building scalable backend systems, cloud-native applications, and AI-powered pro
 </div>
 
 ---
----
 
 ### 👩‍💻 About Me
 
