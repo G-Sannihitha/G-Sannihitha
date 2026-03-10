@@ -1,32 +1,30 @@
 <div align="center">
 
-<br/>
+<h1>
+<span style="background: linear-gradient(90deg,#ff6a00,#ee0979,#00c6ff);
+-webkit-background-clip: text;
+color: transparent;">
+Sannihitha Gudimalla
+</span>
+</h1>
 
-<img src="https://raw.githubusercontent.com/G-Sannihitha/G-Sannihitha/main/name.svg" alt="Sannihitha Gudimalla" />
+### Software Engineer • Java • C++ • AI/ML • Full-Stack Development
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-412991?style=flat-square&logo=openai&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-1B3A6B?style=flat-square&logoColor=white" height="24"/>
+Building scalable backend systems, cloud-native applications, and AI-powered products.
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/sannihithag/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
-  </a>
-  <a href="https://sannihitha-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" height="28"/>
-  </a>
-  <a href="mailto:sannihithagudimalla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
-  </a>
-</p>
 
-<br/>
+
+<a href="https://www.linkedin.com/in/sannihithag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+<a href="https://sannihitha-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" height="28"/></a>
+<a href="mailto:sannihithagudimalla@gmail.com"><img src="https://img.shields.io/badge/Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+
+<br/><br/>
 
 </div>
 
+---
 ---
 
 ### 👩‍💻 About Me
